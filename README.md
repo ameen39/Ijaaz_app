@@ -1,64 +1,97 @@
-# تطبيق إعجاز (Ijaaz App) 🌙 - منصة تحليل البيان القرآني
+# <p align="center">🌙 تطبيق إعجاز (Ijaaz App)</p>
+## <p align="center">منصة تحليل البيان والجماليات القرآنية</p>
 
-[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)
-[![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
-
-تطبيق متطور يدمج بين علوم القرآن والتقنيات الحديثة لاستكشاف الإعجاز البياني والبلاغي. يوفر التطبيق أدوات تحليلية بصرية تساعد الباحثين والمتدبرين على فهم الروابط العميقة بين المفاهيم القرآنية.
-
----
-
-## 📱 معرض صور التطبيق (App Gallery)
-
-### 1️⃣ أدوات التحليل البصري (Visual Analysis Tools)
-تتميز المنصة بأدوات بيانية تفاعلية متقدمة لتحليل النص القرآني:
 <p align="center">
-  <img src="screenshots/concepts_atlas_quran.jpg" width="280" title="أطلس المفاهيم القرآنية">
-  <img src="screenshots/concepts_atlas_balagha.jpg" width="280" title="أطلس المفاهيم البلاغية">
-  <img src="screenshots/relations_network.jpg" width="280" title="شبكة العلاقات المفهومية">
-</p>
-<p align="center">
-  <img src="screenshots/style_analyzer.jpg" width="280" title="محلل الأسلوب والمقارنة">
-</p>
-
-### 2️⃣ البحث والاستكشاف الذكي (Smart Exploration)
-واجهات سهلة للوصول إلى كنوز البيان القرآني:
-<p align="center">
-  <img src="screenshots/main_home.jpg" width="280" title="الواجهة الرئيسية">
-  <img src="screenshots/search_vi.jpg" width="280" title="واجهة البحث الشامل">
-  <img src="screenshots/balagha_explorer.jpg" width="280" title="مستكشف الشواهد البلاغية">
-</p>
-
-### 3️⃣ التفاصيل البيانية (Rhetorical Details)
-تحليل أكاديمي دقيق لكل شاهد (تشبيه، استعارة، إلخ):
-<p align="center">
-  <img src="screenshots/simile_details.jpg" width="280" title="تفاصيل التشبيه">
-  <img src="screenshots/metaphor_details.jpg" width="280" title="تفاصيل الاستعارة">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
+  <img src="https://img.shields.io/badge/Architecture-Clean-green?style=for-the-badge">
 </p>
 
 ---
 
-## ✨ المميزات الاحترافية
-
-*   **📊 أطلس المفاهيم التفاعلي:** عرض (Sunburst Chart) يوضح نسب توزيع المفاهيم القرآنية والبلاغية.
-*   **📉 محلل الأسلوب والمقارنة:** أداة للمقارنة بين السور من حيث التوجه البلاغي (وعد، وعيد، إقناع) وكثافة المفاهيم.
-*   **🕸 شبكة العلاقات المفهومية:** خريطة ذهنية تربط بين المفاهيم القرآنية والروابط البلاغية النشطة.
-*   **🔍 محرك بحث متقدم:** تصفية دقيقة حسب المفهوم، الهدف البلاغي، والنبرة الشعورية.
-*   **📖 المكتبة البيانية:** شرح مفصل لأركان التشبيه والاستعارة مع أقوال العلماء.
+### 🌟 نبذة عن المشروع (About)
+تطبيق **إعجاز** هو مشروع رائد يهدف إلى تقريب علوم البلاغة والبيان القرآني لعامة المسلمين والباحثين باستخدام أحدث تقنيات تحليل البيانات والتمثيل البصري. لا يكتفي التطبيق بعرض النص، بل يغوص في "العلاقات المفهومية" و"الوظائف البلاغية" لكل آية.
 
 ---
 
-## 🚀 كيف تبدأ؟ (Quick Start)
-1. قم بعمل Clone للمستودع.
-2. تأكد من تثبيت Flutter SDK.
-3. قم بتشغيل الأمر `flutter pub get`.
-4. ابدأ التطبيق باستخدام `flutter run`.
+### 📸 معرض الصور (Visual Showcase)
+
+#### 1️⃣ التحليل الهيكلي والبصري
+| أطلس المفاهيم (Sunburst) | شبكة العلاقات (Graph) | محلل الأسلوب والمقارنة |
+|:---:|:---:|:---:|
+| <img src="screenshots/concepts_atlas_quran.jpeg" width="200"> <br> (قرآني) | <img src="screenshots/relations_network.jpeg" width="200"> | <img src="screenshots/style_analyzer.jpeg" width="200"> |
+| <img src="screenshots/concepts_atlas_balagha.jpeg" width="200"> <br> (بلاغي) | | |
+
+#### 2️⃣ رحلة المستخدم والبحث
+| الواجهة الرئيسية | البحث الشامل | مستكشف الشواهد |
+|:---:|:---:|:---:|
+| <img src="screenshots/main_home.jpeg" width="200"> | <img src="screenshots/search_vi.jpeg" width="200"> | <img src="screenshots/balagha_explorer.jpeg" width="200"> |
+
+#### 3️⃣ التفاصيل البيانية (Rhetorical Details)
+| تفاصيل التشبيه | تفاصيل الاستعارة |
+|:---:|:---:|
+| <img src="screenshots/simile_details.jpeg" width="200"> | <img src="screenshots/metaphor_details.jpeg" width="200"> |
 
 ---
-## 🛠 التقنيات المستخدمة
-*   **Flutter & Dart**
-*   **Interactive Data Visualization**
-*   **Clean Architecture**
-*   **Multi-language Support (Ar/En)**
+
+### ✨ المميزات الرئيسية (Core Features)
+
+#### 📊 أدوات التحليل البياني (Data Visualization)
+*   **أطلس المفاهيم التفاعلي**: استكشاف توزيع المفاهيم القرآنية عبر مخططات Sunburst المتداخلة.
+*   **محلل الأسلوب المقارن**: أداة فريدة للمقارنة بين السور من حيث (الوعد، الوعيد، الحجاج، التشريع) مع قياس النبرة الشعورية.
+*   **خرائط المفاهيم الذكية**: تمثيل العلاقات بين المواضيع القرآنية كشبكة مترابطة (Graph Theory).
+
+#### 🔍 الاستكشاف والتدبر (Exploration)
+*   **محرك بحث بلاغي**: ابحث عن "التشبيه في سورة البقرة" أو "آيات الترغيب" بضغطة زر.
+*   **شرح أكاديمي مفصل**: لكل شاهد بلاغي (توضيح أركان التشبيه، نوع الاستعارة، وأقوال الأقدمين).
+
+#### 🛠 التخصيص والأدوات الشخصية (Personalization)
+*   **نظام العلامات المرجعية**: حفظ الآيات والشواهد للعودة إليها لاحقاً.
+*   **سجل الملاحظات التدبرية**: مساحة خاصة للمستخدم لتدوين خواطره حول الآيات.
+*   **دعم القارئ والتجويد**: واجهة قراءة مريحة مع ميزات التجويد البصري.
 
 ---
-**ملاحظة للمطورين:** الصور موجودة في مجلد `screenshots` بصيغة `.jpg`.
+
+### 🧬 المنهجية العلمية (Methodology)
+يعتمد التطبيق على قاعدة بيانات ضخمة مصنفة علمياً:
+1.  **Tagging**: تصنيف كل آية حسب المفهوم الرئيسي والفرعي.
+2.  **Rhetorical Function**: تحديد الوظيفة البلاغية (وعد، وعيد، إقناع، إلخ).
+3.  **Visual Mapping**: تحويل هذه البيانات إلى قيم رقمية تظهر في الرسوم البيانية.
+
+---
+
+### 🚀 التشغيل التقني (Technical Setup)
+```bash
+# Clone project
+git clone https://github.com/ameen39/ijaaz_app.git
+
+# Install dependencies
+flutter pub get
+
+# Generate Localization (if needed)
+flutter gen-l10n
+
+# Run the app
+flutter run
+```
+
+---
+
+### 🛠 التقنيات (Tech Stack)
+*   **Framework**: Flutter (Cross-platform)
+*   **Data Viz**: FL Chart & Custom Graphs
+*   **Localization**: Flutter Intl (AR/EN support)
+*   **Architecture**: Provider/State Management with Clean Layouts
+
+---
+
+### 🤝 المساهمة (Contribution)
+نسعد بجميع المساهمات التي تهدف إلى تحسين جودة البيانات أو الميزات التقنية. يرجى فتح Issue قبل إرسال Pull Request.
+
+---
+
+**ملاحظة للمطورين:** جميع الصور موجودة في مجلد `screenshots` بلاحقة ملفات من نوع `.jpeg` (تأكد من كتابتها كاملة .jpeg وليس .jpg لتعمل الروابط بشكل صحيح).
+
+---
+
+<p align="center">تم التطوير بكل ❤️ لخدمة كتاب الله</p>
